@@ -1,4 +1,10 @@
 __pycache__/
+*.pyc
 .env
 *.log
 venv/
+.venv/
+vosk-model/
+aivora_memory.json
+AIVORA_screenshot_*.png
+.DS_Store

@@ -1,0 +1,12 @@
+vosk
+sounddevice
+requests
+psutil
+pyautogui
+python-dotenv
+google-genai
+SpeechRecognition
+PyAudio
+screen-brightness-control
+pycaw; sys_platform == "win32"
+comtypes; sys_platform == "win32"
